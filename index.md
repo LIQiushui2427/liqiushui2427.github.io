@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 # 重要的日子
 ## 开始
-打算开始整理自己的个人网站。距离Programming Midterm还有一周。
+打算开始整理自己的个人网站。距离Programming Midterm还有一周。不管怎么说，真的要有点程序员的样子了！
 ### Header 3
 
 - Bulleted
