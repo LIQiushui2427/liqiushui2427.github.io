@@ -4,18 +4,18 @@ You can use the [editor on GitHub](https://github.com/LIQiushui2427/liqiushui242
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 Syntax highlighted code block
 
 # 日志
 ## 开始
 打算开始整理自己的个人网站。距离Programming Midterm还有一周。不管怎么说，真的要有点程序员的样子了！
-### Header 3
-
+以后就简单写写日记吧..也不想设计什么玩意儿..
+## 进度
+学AI中，仿佛有点进展，但还是看不懂paper和代码，好羡慕phd的生活。短时间内再学不懂真没出路了。。要是不能得到口头的话，只能当ra再等一年还不知道什么结果了。。真的空窗一年的话真没出路了。。
+然后学业也是一样的让人失望。。。
+# 心情
+infp 也好，没有经验也好，精神洁癖也好，希望能减少精神内耗，希望能不要浪费时间在没有意义的事情上，希望不要伤心难过。
 - Bulleted
 - List
 
