@@ -3,7 +3,7 @@
 是逍遥派祖师逍遥子三弟子[维基百科](https://zh.wikipedia.org/zh-hans/%E6%9D%8E%E7%A7%8B%E6%B0%B4)。
 本人特别爱庄子，并且觉得李秋水这名字很好听，于是把李秋水用作网名。
 #个人简历
-个人简历已上传，[请在此](https://github.com/LIQiushui2427/liqiushui2427.github.io/cv.pdf)查看我的个人简历。
+个人简历已上传，[请在此](https://github.com/LIQiushui2427/liqiushui2427.github.io/blob/main/cv.pdf)查看我的个人简历。
 <!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
 ```markdown
