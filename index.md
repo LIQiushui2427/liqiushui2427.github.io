@@ -5,12 +5,6 @@
 #个人简历
 个人简历已上传，[请在此](cv.pdf)查看我的个人简历。
 
-```markdown
 # 日志
 ## 开始
-不知道写点什么，就希望自己能定乎内外之分，不要再浪费时间在没有意义的事情上。
-
-[Link](url) and ![Image](src)
-```
-
-<!-- For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). -->
+尚待完善。
