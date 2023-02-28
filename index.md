@@ -1,16 +1,14 @@
-## 易简的个人网站
+## 李秋水的个人网站
 # 李秋水
 是逍遥派祖师逍遥子三弟子[维基百科](https://zh.wikipedia.org/zh-hans/%E6%9D%8E%E7%A7%8B%E6%B0%B4)。
 本人特别爱庄子，并且觉得李秋水这名字很好听，于是把李秋水用作网名。
 #个人简历
-个人简历已上传，[请在此](https://github.com/LIQiushui2427/liqiushui2427.github.io/blob/main/cv.pdf)查看我的个人简历。
-<!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
+个人简历已上传，[请在此](cv.pdf)查看我的个人简历。
 
 ```markdown
-
 # 日志
 ## 开始
-尚待完善。
+不知道写点什么，就希望自己能定乎内外之分，不要再浪费时间在没有意义的事情上。
 <!-- 打算开始整理自己的个人网站。距离Programming Midterm还有一周。不管怎么说，真的要有点程序员的样子了！ -->
 <!-- 以后就简单写写日记吧..也不想设计什么玩意儿.. -->
 <!-- ## 进度
@@ -30,11 +28,3 @@ infp 也好，没有经验也好，精神洁癖也好，希望能减少精神内
 ```
 
 <!-- For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). -->
-
-### Jekyll Themes
-
-<!-- Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LIQiushui2427/liqiushui2427.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file. -->
-
-### Support or Contact
-
-<!-- Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. --> -->
