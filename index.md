@@ -10,5 +10,6 @@ In his spare time, He like to read classical chinese and listening to music.
 CV is available. Click [here](cv.pdf) to view YI Jian's CV.
 
 # 日志
-## 开始
-尚待完善。
+## 学业
+### 10/05/2023
+完sem。准备开始找实习和继续做Deep CI 的project
