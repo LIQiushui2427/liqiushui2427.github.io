@@ -30,6 +30,6 @@ He Became a full-time intern at [DataLouder](https://datalouder.com).
 
 ### His favorite books
 
-[村上春树]（./pages/Murakami_Haruki.html）
-[金庸]（./pages/Jin_Yong.html）
-[张爱玲]（./pages/Zhang_Ailing.html
+[村上春树](./pages/Murakami_Haruki.html)
+[金庸](./pages/Jin_Yong.html)
+[张爱玲](./pages/Zhang_Ailing.html)
