@@ -2,14 +2,16 @@
 YI jian is currently a undergruaduate student majoring in Computer Science in the Chinese University of Hong Kong. Before the university, he graduated from the Xiamen No.1 High School of Fujian.
 His current research interest involves in AI, namely computer vision and unsupervised learning in computer vision. He is also interested in some software develop stuff. And now he is looking for internships in Hong Kong.
 In his spare time, He like to read classical chinese and listening to music.
-# 李秋水
-是逍遥派祖师逍遥子三弟子[维基百科](https://zh.wikipedia.org/zh-hans/%E6%9D%8E%E7%A7%8B%E6%B0%B4)。
-本人特别爱庄子，并且觉得李秋水这名字很好听，于是把李秋水用作网名。
-#个人简历
-个人简历已上传，[请在此](cv.pdf)查看我的个人简历。
+# About him
+个人简历已上传，[请在此](cv.pdf)查看他的个人简历。
 CV is available. Click [here](cv.pdf) to view YI Jian's CV.
-
-# 日志
-## 学业
+## Journal
+### 01/06/2022
+He finished his summer research internship at [CURE-lab](https://cure-lab.github.io/) at CUHK. The project is about time-series forecasting. The code is available [here](https://github.com/VEWOXIC/REPO_skeleton).
 ### 10/05/2023
-完sem。准备开始找实习和继续做Deep CI 的project
+He finished his second semester of junior year. He then start to looks for internships in Hong Kong. He started a project about using unsupervised learning to make a demand estimation in markets. The code is available [here](https://github.com/LIQiushui2427/DeepCI)
+### 02/06/2023
+He Became a full-time intern at [DataLouder](https://datalouder.com).
+# 附录
+李秋水是逍遥派祖师逍遥子三弟子[维基百科](https://zh.wikipedia.org/zh-hans/%E6%9D%8E%E7%A7%8B%E6%B0%B4)。
+他特别爱庄子，并且觉得李秋水这名字很好听，于是把李秋水用作网名。
