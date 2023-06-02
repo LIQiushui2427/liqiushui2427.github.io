@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# About
+# YI Jian's Homepage
 
 ## YI Jian(易简)
 
