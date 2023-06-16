@@ -11,8 +11,7 @@ In his spare time, He like to read classical chinese and listening to music.
 
 ## About him
 
-个人简历已上传，[请在此](cv.pdf)查看他的个人简历。
-CV is available. Click [here](cv.pdf) to view YI Jian's CV.
+CV is available. Click [here](./src/cv.pdf) to view YI Jian's CV.
 
 ## Journal
 
@@ -27,6 +26,11 @@ He finished his second semester of junior year. He then start to looks for inter
 ### 02/06/2023
 
 He Became a full-time intern at [DataLouder](https://datalouder.com).
+His project is temporary available [here](https://github.com/LIQiushui2427/CoT_Strategy). It may be protected later.
+
+### 06/06/2023
+
+He submitted his first paper [DeepCI](./src/DeepCI.pdf) to [ICRBME](https://www.icrbme.org/).
 
 ### His favorite writers
 
