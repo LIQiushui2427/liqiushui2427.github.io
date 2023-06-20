@@ -3,7 +3,9 @@ layout: default
 ---
 # YI Jian's Homepage
 
-## YI Jian(易简)
+## Greetings
+
+## YI Jian(易簡)
 
 YI jian is currently a undergruaduate student majoring in Computer Science in the Chinese University of Hong Kong. Before the university, he graduated from the Xiamen No.1 High School of Fujian.
 His current research interest involves in AI, namely computer vision and unsupervised learning in computer vision. He is also interested in some software develop stuff. And now he is looking for internships in Hong Kong.
@@ -21,16 +23,17 @@ He finished his summer research internship at [CURE-lab](https://cure-lab.github
 
 ### 10/05/2023
 
-He finished his second semester of junior year. He then start to looks for internships in Hong Kong. He started a project about using unsupervised learning to make a demand estimation in markets. The code is available [here](https://github.com/LIQiushui2427/DeepCI)
+He finished his second semester of junior year. He then start to looks for internships in Hong Kong. He started a project about using unsupervised learning to make a demand estimation in markets. The code is available [here](https://github.com/LIQiushui2427/DeepCI).
 
 ### 02/06/2023
 
-He Became a full-time intern at [DataLouder](https://datalouder.com).
-His project is temporary available [here](https://github.com/LIQiushui2427/CoT_Strategy). It may be protected later.
+He became a full-time intern at [DataLouder](https://datalouder.com).
+His project  is temporary available [here](https://github.com/LIQiushui2427/CoT_Strategy)(It may be protected later due to company's policy) It's about researching trading strategies for Commodities and Futures, utilizing [CFTC](https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm) data.
 
-### 06/06/2023
+### 19/06/2023
 
-He submitted his first paper [DeepCI](./src/DeepCI.pdf) to [ICRBME](https://www.icrbme.org/).
+His first paper [DeepCI](./src/DeepCI.pdf) is accepted by [ICRBME](https://www.icrbme.org/).
+It's about using unsupervised learning to make a demand estimation in markets. The code is available [here](https://github.com/LIQiushui2427/DeepCI).
 
 ### His favorite writers
 
