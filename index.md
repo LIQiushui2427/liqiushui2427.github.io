@@ -15,7 +15,7 @@ In his spare time, He like to read classical chinese and listening to music.
 
 CV is available. Click [here](./src/cv.pdf) to view YI Jian's CV.
 
-## Journal
+## News
 
 ### 01/06/2022
 
@@ -34,6 +34,9 @@ His project  is temporary available [here](https://github.com/LIQiushui2427/CoT_
 
 His first paper [DeepCI](./src/DeepCI.pdf) is accepted by [ICRBME](https://www.icrbme.org/).
 It's about using unsupervised learning to make a demand estimation in markets. The code is available [here](https://github.com/LIQiushui2427/DeepCI).
+
+### 30/07/2023
+He has developed a telegram bot for a automated stock price alert and backtesting support. The telegram channel is [here](https://t.me/beta_datalouder). It is still being implemented. Feel free to join and give advice if you are interested.
 
 ### His favorite writers
 
