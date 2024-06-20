@@ -4,7 +4,9 @@ layout: default
 # YI Jian's Homepage
 
 ## Contact
+
 yijian2427[at]gmail.com
+
 
 ## YI Jian(易簡)
 
@@ -40,11 +42,20 @@ It's about using unsupervised learning to make a demand estimation in markets. T
 ### 30/07/2023
 He has developed a telegram bot for a automated stock price alert and backtesting support. The telegram channel is [here](https://t.me/beta_datalouder). It is still actively working and being maintained (*until 03/11/2024*). Feel free to join and give advice if you are interested.
 
-### 30/07/2023
+### 18/05/2024
 
 He got admitted to the [Master of Science in Financial Technology (Intelligent Process Automation)](https://www.ntu.edu.sg/education/graduate-programme/master-of-science-in-financial-technology) at [Nanyang Technological University](https://www.ntu.edu.sg/). He will start his postgraduate study in August 2023.
 
+### 01/06/2024
+
+He started his summer jobs as a research assistant at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). The project is about assessing the impact of the Climate Risk Disclosure on the stock price.
+
+### 31/07/2024
+
+He graduated from the Chinese University of Hong Kong with a Bachelor of Science in Computer Science, earning first honors. He will start his postgraduate study in August 2024.
+
 ### His favorites
+
 In his spare time, He like to read classical chinese and listening to music.
 
 ## Writers and excerpts
@@ -62,3 +73,7 @@ In his spare time, He like to read classical chinese and listening to music.
 ## Poems
 
 [诗歌](./pages/poems.html)
+
+## Wish list
+
+[愿望清单](./pages/wishlist.html)
