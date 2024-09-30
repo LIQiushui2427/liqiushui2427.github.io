@@ -52,6 +52,10 @@ He developed a Telegram bot for automated stock price alerts and backtesting sup
 
 YI Jian was admitted to the [Master of Science in Financial Technology (Intelligent Process Automation)](https://www.ntu.edu.sg/education/graduate-programme/master-of-science-in-financial-technology) at [Nanyang Technological University](https://www.ntu.edu.sg/). He will begin his postgraduate studies in August 2023.
 
+### 21/09/2024
+
+YI Jian started working as a student research assistant at [Nanyang Technological University](https://www.ntu.edu.sg/). He will be working on a project related to Global Acturial Research and Climate Risk Research, under the supervision of [Prof. Joey ZHOU](https://dr.ntu.edu.sg/cris/rp/rp02423).
+
 ## Interests
 
 ### His favorites
