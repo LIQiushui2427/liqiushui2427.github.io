@@ -1,0 +1,15 @@
+/* Make content 80% of the page width */
+.page-content {
+  width: 80%;
+  margin: 0 auto; /* Center the content horizontally */
+}
+
+.post {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.wrapper {
+  width: 80%;
+  margin: 0 auto;
+}
