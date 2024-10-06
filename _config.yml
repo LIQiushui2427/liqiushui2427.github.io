@@ -17,5 +17,11 @@ twitter_username: liqiushui2427
 github_username: LIQiushui2427
 linkedin_username: yijian2427
 
+# Include custom styles
+sass:
+  style: compressed
+  
 minima:
   skin: solarized-light	
+  include_css: "/custom.css"
+  
