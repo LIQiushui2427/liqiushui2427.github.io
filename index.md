@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minima
 ---
 
 # YI Jian's Homepage
@@ -76,3 +76,5 @@ In his spare time, He like to read classical chinese and listening to music.
 ## Poems
 
 [诗歌 (Poems)](./pages/poems.html)
+
+[赋文](./pages/Classical.html)
