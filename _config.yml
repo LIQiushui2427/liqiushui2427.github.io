@@ -1,6 +1,24 @@
-remote_theme: pages-themes/cayman@v0.2.0
+# Site settings
+remote_theme: jekyll/minima # switch to Minima theme
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-theme: jekyll-theme-tactile
-title: YI Jian (易简)
-description: YI Jian's personal webpage。| 这里是易简的个人网站。
+  - jekyll-remote-theme # load remote themes
+  - jekyll-seo-tag # for SEO enhancements
+  - jekyll-sitemap # generate sitemap automatically
+  - jekyll-feed # for RSS feed generation
+  
+title: "YI Jian (易简)"
+description: "YI Jian's personal webpage | 这里是易简的个人网站。"
+lang: en
+timezone: Asia/Singapore
+
+# Social links (optional)
+twitter_username: liqiushui2427
+github_username: LIQiushui2427
+linkedin_username: yijian2427
+
+# Customization
+minima:
+  skin: light # You can switch this to 'light', 'dark', or 'solarized'
+  social_links:
+    twitter: "https://x.com/liqiushui2427"
+    github
