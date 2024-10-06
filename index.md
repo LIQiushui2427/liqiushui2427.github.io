@@ -1,5 +1,5 @@
 ---
-layout: minima
+layout: default
 ---
 
 # YI Jian's Homepage
