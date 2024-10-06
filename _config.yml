@@ -18,8 +18,5 @@ twitter_username: liqiushui2427
 github_username: LIQiushui2427
 linkedin_username: yijian2427
 
-# Customization
 minima:
-  skin: light
-  social_links:
-    twitter: "https://x.com/liqiushui2427"
+  skin: solarized-light	
