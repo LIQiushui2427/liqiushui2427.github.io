@@ -13,9 +13,9 @@ yijian2427[at]gmail.com
 
 YI Jian is currently pursuing a Master of Science in Financial Technology at Nanyang Technological University. He earned his Bachelor of Science in Computer Science from the Chinese University of Hong Kong in July 2024. Before university, he graduated from Xiamen No.1 High School in Fujian.
 
-His current research interests lie in AI, particularly in computer vision and unsupervised learning. He is also keen on software development and is actively seeking internships in Hong Kong and Singapore.
+His current research interests lie in applications of AI in finance. He is always thinking of how human should develop an AI that can be even better than human in security pricing and stock trading. He is also keen on software development and is actively seeking internships in Hong Kong and Singapore.
 
-With a growing interest in fintech, YI Jian is expanding his knowledge in finance and is currently looking for remote part-time opportunities in fintech-related fields in Hong Kong.
+With a growing interest in financial engeneering, YI Jian is expanding his knowledge in finance and is currently looking for remote part-time opportunities in fintech-related fields in Hong Kong, Singapore, and China.
 
 ## Curriculum Vitae
 
@@ -50,7 +50,7 @@ He developed a Telegram bot for automated stock price alerts and backtesting sup
 
 ### 18/05/2024
 
-YI Jian was admitted to the [Master of Science in Financial Technology (Intelligent Process Automation)](https://www.ntu.edu.sg/education/graduate-programme/master-of-science-in-financial-technology) at [Nanyang Technological University](https://www.ntu.edu.sg/). He will begin his postgraduate studies in August 2023.
+YI Jian was admitted to the [Master of Science in Financial Technology (Intelligent Process Automation)](https://www.ntu.edu.sg/education/graduate-programme/master-of-science-in-financial-technology) at [Nanyang Technological University](https://www.ntu.edu.sg/). He will begin his postgraduate studies in August 2024.
 
 ### 21/09/2024
 
