@@ -1,7 +1,9 @@
 remote_theme: jekyll/minima # switch to Minima theme
 plugins:
   - jekyll-remote-theme # load remote themes
-  - jekyll-feed # for RSS feed generation
+  - jekyll-gist
+  - jekyll-coffeescript
+  - jekyll-seo-tag
   
 title: "YI Jian (易简)"
 description: "YI Jian's personal webpage. | 这里是易简的个人网站。"
