@@ -1,7 +1,4 @@
 remote_theme: jekyll/minima # switch to Minima theme
-plugins:
-  - jekyll-remote-theme # load remote themes
-  - jekyll-coffeescript
   
 title: "YI Jian (易简)"
 description: "YI Jian's personal webpage. | 这里是易简的个人网站。"
@@ -13,12 +10,4 @@ timezone: Asia/Singapore
 twitter_username: liqiushui2427
 github_username: LIQiushui2427
 linkedin_username: yijian2427
-
-# Include custom styles
-sass:
-  style: compressed
-  
-minima:
-  skin: solarized-light	
-  include_css: "/custom.css"
   
