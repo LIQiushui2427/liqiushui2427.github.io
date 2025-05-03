@@ -1,6 +1,6 @@
 ---
-layout: page
-title: My Page
+layout: default
+title: 愿望清单
 ---
 
 # YI Jian's wishlist
