@@ -1,5 +1,5 @@
 ---
-layout: Default
+layout: default
 title: 村上春树
 ---
 

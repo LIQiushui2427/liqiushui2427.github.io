@@ -1,5 +1,5 @@
 ---
-layout: Default
+layout: default
 title: 一些不错的拉丁文
 ---
 
