@@ -1,20 +1,25 @@
-<nav>
-    <h3>Pages</h3>
-    <ul>
-      {% for page in site.pages %}
-        {% if page.path contains 'pages/' and page.title %}
-          <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
-        {% endif %}
-      {% endfor %}
-    </ul>
-  
-    <h3>Blogs</h3>
-    <ul>
-      {% for page in site.pages %}
-        {% if page.path contains 'blogs/' and page.title %}
-          <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
-        {% endif %}
-      {% endfor %}
+<nav class="custom-nav">
+    <ul class="nav-list">
+      <li class="dropdown">
+        <a href="#">Pages</a>
+        <ul class="dropdown-content">
+          {% for page in site.pages %}
+            {% if page.path contains 'pages/' and page.title %}
+              <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </li>
+      <li class="dropdown">
+        <a href="#">Blogs</a>
+        <ul class="dropdown-content">
+          {% for page in site.pages %}
+            {% if page.path contains 'blogs/' and page.title %}
+              <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </li>
     </ul>
   </nav>
   

@@ -5,6 +5,8 @@ title: Home
 
 # YI Jian's Homepage
 
+{% include nav.html %}
+
 ## Contact
 
 yijian2427[at]gmail.com
@@ -20,10 +22,6 @@ With a growing interest in financial engeneering, YI Jian is expanding his knowl
 ## Curriculum Vitae
 
 Click [here](/src/cv.pdf) to view YI Jian's CV.
-
-## 📚 Pages  
-
-{% include nav.html %}
 
 ## News
 

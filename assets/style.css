@@ -1,0 +1,62 @@
+.custom-nav {
+    background-color: #f8f9fa;
+    padding: 10px;
+    font-family: "Segoe UI", sans-serif;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .nav-list {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav-list > li {
+    position: relative;
+  }
+  
+  .nav-list > li > a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #333;
+    padding: 5px 10px;
+  }
+  
+  .nav-list li:hover > a {
+    color: #c00;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    border: 1px solid #ddd;
+    padding: 10px;
+    top: 100%;
+    left: 0;
+    z-index: 1000;
+    box-shadow: 0px 2px 8px rgba(0,0,0,0.1);
+  }
+  
+  .dropdown-content li {
+    list-style: none;
+  }
+  
+  .dropdown-content a {
+    display: block;
+    padding: 5px 10px;
+    text-decoration: none;
+    color: #555;
+  }
+  
+  .dropdown-content a:hover {
+    background-color: #f0f0f0;
+    color: #000;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
