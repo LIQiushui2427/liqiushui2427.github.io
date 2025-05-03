@@ -89,4 +89,4 @@ In his spare time, He like to read classical chinese and listening to music.
 
 ## 其他爱好
 
-[愿望清单](./pages/wishlist.md)
+[愿望清单](./pages/wishlist.html)
