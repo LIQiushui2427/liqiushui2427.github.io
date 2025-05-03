@@ -9,6 +9,7 @@ exclude:
 
 # Set plugins
 plugins:
+- jekyll-remote-theme
 - jekyll-sitemap
 - jekyll-mentions
 - jekyll-paginate
@@ -18,7 +19,6 @@ plugins:
 - jekyll-commonmark
 - jekyll-include-cache
 - jemoji
-- jekyll-remote-theme
   
 title: "YI Jian (易简)"
 description: "YI Jian's personal webpage. | 这里是易简的个人网站。"
