@@ -20,4 +20,4 @@ title: 词
 漠漠轻寒上小楼，晓阴无赖似穷秋。淡烟流水画屏幽。
 自在飞花轻似梦，无边丝雨细如愁。宝帘闲挂小银钩。
 
-[Back to main page](../index.md)
+[Back to main page](/)

@@ -17,4 +17,4 @@ title: 一些不错的拉丁文
 > **Per aspera ad astra**
 > 循此苦旅，以达星辰
 
-[返回主页](../index.md)
+[返回主页](./index.md)

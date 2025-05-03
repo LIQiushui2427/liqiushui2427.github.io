@@ -19,7 +19,7 @@ With a growing interest in financial engeneering, YI Jian is expanding his knowl
 
 ## Curriculum Vitae
 
-Click [here](./src/cv.pdf) to view YI Jian's CV.
+Click [here](/src/cv.pdf) to view YI Jian's CV.
 
 ## News
 
@@ -33,7 +33,7 @@ YI Jian became a full-time intern at [DataLouder](https://datalouder.com). His p
 
 ### 19/06/2023
 
-His first paper [DeepCI](./src/DeepCI.pdf) is accepted by [ICRBME](https://www.icrbme.org/).
+His first paper [DeepCI](/src/DeepCI.pdf) is accepted by [ICRBME](https://www.icrbme.org/).
 It's about using unsupervised learning to make a demand estimation in markets. The code is available [here](https://github.com/LIQiushui2427/DeepCI).
 
 ### 30/07/2023
@@ -70,24 +70,24 @@ In his spare time, He like to read classical chinese and listening to music.
 
 ## Writers and Excerpts
 
-[村上春树 (Haruki Murakami)](./pages/Murakami_Haruki.html)
+[村上春树 (Haruki Murakami)](/pages/Murakami_Haruki/)
 
-[金庸 (Jin Yong)](./pages/Jin_Yong.html)
+[金庸 (Jin Yong)](/pages/Jin_Yong/)
 
-[张爱玲 (Eileen Chang)](./pages/Zhang_Ailing.html)
+[张爱玲 (Eileen Chang)](/pages/Zhang_Ailing/)
 
 ## Latin Mottos
 
-[拉丁文格言 (Latin Mottos)](./pages/latin.html)
+[拉丁文格言 (Latin Mottos)](/pages/latin/)
 
 ## Poems
 
-[诗歌 (Poems)](./pages/poems.html)
+[诗歌 (Poems)](/pages/poems/)
 
-[赋文](./pages/Classical.html)
+[赋文](/pages/Classical/)
 
-[散文](./pages/prose.html)
+[散文](/pages/prose/)
 
 ## 其他爱好
 
-[愿望清单](./pages/wishlist.html)
+[愿望清单](/pages/wishlist/)

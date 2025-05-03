@@ -3,7 +3,7 @@ layout: default
 title: 村上春树
 ---
 
-[村上春树的森林](https://www.cunshang.net/2624.html)
+[村上春树的森林](https://www.cunshang.net/2624/)
 
 ## 海边的卡夫卡摘抄
 
@@ -71,4 +71,4 @@ Started reading from 20/06/2023
 
 1. If you're in pitch blackness, all you can do is sitting tight until your eyes get used to the dark.
 
-[Back to main page](../index.md)
+[Back to main page](/)
