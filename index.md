@@ -21,6 +21,22 @@ With a growing interest in financial engeneering, YI Jian is expanding his knowl
 
 Click [here](/src/cv.pdf) to view YI Jian's CV.
 
+## 📚 Pages  
+
+<ul>
+  {% for item in site.pages_content %}
+    <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+  {% endfor %}
+</ul>
+
+## 📝 Blogs  
+
+<ul>
+  {% for item in site.blog_posts %}
+    <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+  {% endfor %}
+</ul>
+
 ## News
 
 ### 01/06/2022
