@@ -1,4 +1,7 @@
-# 村上春树
+---
+layout: page
+title: 村上春树
+---
 
 [村上春树的森林](https://www.cunshang.net/2624.html)
 

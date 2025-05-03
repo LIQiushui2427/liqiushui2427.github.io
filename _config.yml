@@ -1,25 +1,20 @@
-# Set theme
+# Theme
 remote_theme: daviddarnes/alembic@main
 
-# File excludes
-exclude:
-- README.md
-- Gemfile
-- Gemfile.lock
-
-# Set plugins
+# Plugins
 plugins:
-- jekyll-remote-theme
-- jekyll-sitemap
-- jekyll-mentions
-- jekyll-paginate
-- jekyll-seo-tag
-- jekyll-redirect-from
-- jekyll-feed
-- jekyll-commonmark
-- jekyll-include-cache
-- jemoji
-  
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-commonmark
+  - jekyll-include-cache
+  - jemoji
+
+# Meta
 title: "YI Jian (易简)"
 description: "YI Jian's personal webpage. | 这里是易简的个人网站。"
 lang: en
@@ -27,45 +22,31 @@ timezone: Asia/Singapore
 permalink: pretty
 logo: "https://c-ssl.dtstatic.com/uploads/item/202004/22/20200422142756_tifum.thumb.400_400_c.jpg_webp"
 
-
-# Header nav
+# Navigation
 navigation_header:
-- title: Home
-  url: /
-- title: Pages
-  url: /Pages/
-- title: Blog
-  url: /blog/
+  - title: Home
+    url: /
+  - title: Pages
+    url: /pages/
+  - title: Blog
+    url: /blog/
 
-# Footer nav
 navigation_footer:
-- title: Back to top
-  url: "#top"
+  - title: Back to top
+    url: "#top"
 
-# Collections
-collections:
-  posts:
-    title: Pages
-    output: true
-    description: "My collections"
-    feature_text: |
-      Here are YI Jian's favourites
-    feature_image: "https://picsum.photos/2560/600?image=866"
-
-# Collection settings
+# Defaults
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
+      type: "posts"
+    values:
+      layout: post
+  - scope:
+      path: "pages"
       type: "pages"
     values:
-      layout: post # Set the default layout for posts
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: page # Set the default layout for pages
+      layout: page
 
 
 # Social links (optional)

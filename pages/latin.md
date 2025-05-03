@@ -1,4 +1,7 @@
-# 一些不错的拉丁文
+---
+layout: page
+title: 一些不错的拉丁文
+---
 
 > **Hinc lucem et pocula sacra**  
 > 于此饮光而充盈圣杯  

@@ -1,3 +1,7 @@
+---
+layout: page
+title: 散文
+---
 
 # 朱自清
 

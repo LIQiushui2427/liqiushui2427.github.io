@@ -1,4 +1,7 @@
-# 金庸
+---
+layout: page
+title: 金庸
+---
 
 [金庸网](https://www.jinyongwang.net/)
 

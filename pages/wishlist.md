@@ -1,3 +1,8 @@
+---
+layout: page
+title: My Page
+---
+
 # YI Jian's wishlist
 
 ## Japan

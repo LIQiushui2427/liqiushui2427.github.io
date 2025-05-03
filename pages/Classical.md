@@ -1,3 +1,7 @@
+---
+layout: page
+title: 赋文
+---
 
 # 洛神赋
 
