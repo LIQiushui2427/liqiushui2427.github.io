@@ -18,6 +18,10 @@ collections:
     output: true
     permalink: /blogs/:name/
 
+sass:
+  style: compressed
+  sass_dir: assets/css
+
 defaults:
   - scope:
       path: ""
