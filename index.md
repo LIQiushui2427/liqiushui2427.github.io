@@ -23,19 +23,7 @@ Click [here](/src/cv.pdf) to view YI Jian's CV.
 
 ## 📚 Pages  
 
-<ul>
-  {% for item in site.pages_content %}
-    <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## 📝 Blogs  
-
-<ul>
-  {% for item in site.blog_posts %}
-    <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
-  {% endfor %}
-</ul>
+{% include nav.html %}
 
 ## News
 
