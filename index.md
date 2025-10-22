@@ -13,11 +13,9 @@ yijian2427[at]gmail.com
 
 ## About YI Jian (易简)
 
-YI Jian is currently pursuing a Master of Science in Financial Technology at Nanyang Technological University. He earned his Bachelor of Science in Computer Science from the Chinese University of Hong Kong in July 2024. Before university, he graduated from Xiamen No.1 High School in Fujian.
+YI Jian is a Master of Science in Financial Technology at Nanyang Technological University. He earned his Bachelor of Science in Computer Science from the Chinese University of Hong Kong in July 2024. Before university, he graduated from Xiamen No.1 High School in Fujian.
 
-His current research interests lie in applications of AI in finance. He is always thinking of how human should develop an AI that can be even better than human in security pricing and stock trading. He is also keen on software development and is actively seeking internships in Hong Kong and Singapore.
-
-With a growing interest in financial engeneering, YI Jian is expanding his knowledge in finance and is currently looking for remote part-time opportunities in fintech-related fields in Hong Kong, Singapore, and China.
+Despite traditional quantitative trading, his interests lie in applications of AI in finance. He is always thinking of how human should develop an AI that can be even better than human in security pricing and stock trading. He is also keen on software development and is actively seeking internships in Hong Kong and Singapore.
 
 ## Curriculum Vitae
 
@@ -31,16 +29,15 @@ YI Jian completed his summer research internship at [CURE-lab](https://cure-lab.
 
 ### 02/06/2023
 
-YI Jian became a full-time intern at [DataLouder](https://datalouder.com). His project on researching trading strategies for Commodities and Futures, utilizing [CFTC](https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm) data, is temporarily available [here](https://github.com/LIQiushui2427/CoT_Strategy) (subject to future access restrictions due to company policy).
+YI Jian became an intern at [DataLouder](https://datalouder.com). His project on researching trading strategies for Commodities and Futures, utilizing [CFTC](https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm) data, is temporarily available [here](https://github.com/LIQiushui2427/CoT_Strategy) (subject to future access restrictions due to company policy).
+
+Sharing:
+He developed a Telegram bot for automated stock price alerts and backtesting support. The Telegram channel is [here](https://t.me/beta_datalouder). The bot is actively maintained (*until 03/11/2024*). Feel free to join and provide feedback if interested.
 
 ### 19/06/2023
 
 His first paper [DeepCI](/src/DeepCI.pdf) is accepted by [ICRBME](https://www.icrbme.org/).
 It's about using unsupervised learning to make a demand estimation in markets. The code is available [here](https://github.com/LIQiushui2427/DeepCI).
-
-### 30/07/2023
-
-He developed a Telegram bot for automated stock price alerts and backtesting support. The Telegram channel is [here](https://t.me/beta_datalouder). The bot is actively maintained (*until 03/11/2024*). Feel free to join and provide feedback if interested.
 
 ### 06/05/2024
 
@@ -50,7 +47,7 @@ His duty is to use LLMs to analyse reports about Firms’ Mandatory Climate Risk
 
 ### 18/05/2024
 
-YI Jian was admitted to the [Master of Science in Financial Technology (Intelligent Process Automation)](https://www.ntu.edu.sg/education/graduate-programme/master-of-science-in-financial-technology) at [Nanyang Technological University](https://www.ntu.edu.sg/). He will begin his postgraduate studies in August 2024.
+YI Jian was admitted to the [Master of Science in Financial Technology (Intelligent Process Automation)](https://www.ntu.edu.sg/education/graduate-programme/master-of-science-in-financial-technology) at [Nanyang Technological University](https://www.ntu.edu.sg/). He began his postgraduate studies in August 2024.
 
 ### 21/09/2024
 
@@ -64,11 +61,9 @@ YI Jian started daily fitness, morning jogging, learning Japanese, and studying 
 
 YI Jian started his postision as Quantitative Researcher Intern at [Averia Capital](https://www.alveriacapital.com/) in Singapore.
 
-## Interests
+### 22/10/2025
 
-### His favorites
-
-In his spare time, He like to read classical chinese and listening to music.
+YI Jian started working as a full time quatitative trader at Value Star Asset Management in Hong Kong. He passed HKSI LE Paper 1, and developed a integrated platform for AI-assisted research, Technical Analysis, and Automated Trading ([Link](https://www.vsam.hk/)).
 
 ## Writers and Excerpts
 
@@ -89,6 +84,8 @@ In his spare time, He like to read classical chinese and listening to music.
 [赋文](/pages/Classical/)
 
 [散文](/pages/prose/)
+
+[元曲](/pages/qu.md/)
 
 ## 其他爱好
 
