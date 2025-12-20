@@ -5,8 +5,6 @@ title: Home
 
 # YI Jian's Homepage
 
-{% include nav.html %}
-
 ## Contact
 
 yijian2427[at]gmail.com
